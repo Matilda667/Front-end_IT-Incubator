@@ -1,0 +1,15 @@
+.some_elem {
+    background-color: rgb(69, 206, 176);
+    
+    min-height: 200px;
+
+    width: 100%;
+    min-width: 200px;
+    max-width: 500px;
+}
+
+/* .ex {
+background-color: brown;
+height: 500px;
+width: 600px;
+} */
